@@ -8,7 +8,7 @@ spring:
     config:
       server:
         git:
-          uri: https://gitee.com/lsgwr/config-server
+          uri: https://github.com/19920625lsg/config-server
           username:
           password:
 
