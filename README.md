@@ -1,6 +1,6 @@
 ### 项目说明
 
-大四的毕业设计，实现在线考试系统的基本功能。·
+基于项目 https://gitee.com/wells2333/spring-cloud-online-exam 修改地，原项目bug太多
 
 本系统采用IntelliJ IDEA作为开发工具，基于面向对象的程序设计和微服务架构设计思想，前端运用Html5，Bootstrap,AngularJs等技术完成系统页面的设计和开发，后端使用Java语言，Spring Boot,Spring Cloud,MyBatis等框架，结合MySQL数据库共同完成对信息增删查改操作。
 
