@@ -1,6 +1,3 @@
 *.iml
-admin-service/target
-admin-service/!.mvn/wrapper/maven-wrapper.jar
-admin-service/*.iml
-/.idea/
-*/target
+target/
+.idea/
